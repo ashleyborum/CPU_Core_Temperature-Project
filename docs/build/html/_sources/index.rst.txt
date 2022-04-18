@@ -1,5 +1,5 @@
-CS-417 Semester Project Documentation Introduction
-==================================================
+Welcome to CS417 Semester Project Documentation 
+===============================================
 
 This section will cover all the information you need to build and run the included program.
 

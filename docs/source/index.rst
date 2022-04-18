@@ -1,7 +1,7 @@
 Welcome to CS417 Semester Project Documentation 
 ===============================================
 
-This section will cover all the information you need to build and run the included program.
+You will find all of the information you need to build and run the program in Readme.me.
 
 
 .. toctree::
